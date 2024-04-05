@@ -1,0 +1,20 @@
+SECCION --> VENDEDOR : 
+			- DetalleVenta
+			- Venta
+			- Cliente
+			- Persona
+				- Producto
+				- TipoProd
+				- Marca
+
+SECCION --> GERENTE: 
+			TODOOO!!!!!
+
+SECICON --> INGRESO:
+			- Producto
+			- TipoProd
+			- Marca
+			- DetalleIng
+			- Ingreso
+			- Proveedor
+			- Provee

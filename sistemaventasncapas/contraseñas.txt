@@ -1,0 +1,9 @@
+GERENTE:
+	pedrof 6841
+	mariar 4221
+CAJERO: 
+	oliviar 8219
+
+SUPERVISOR:
+	irenet 6789
+	diegos 7655
